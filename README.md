@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">⚡Lover of games</p>
+<p align="left">⚡Game Lover</p>
 
 ###
 
