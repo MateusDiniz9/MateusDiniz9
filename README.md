@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">⚡Lover of games, especially rpgs</p>
+<p align="left">⚡Lover of games</p>
 
 ###
 
