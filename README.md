@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚Currently I'm learning React, Node.js and Typescript.</p>
+<p align="left">📚I have some works with TypeScript, Node.js and React.js, contact me if you have same interesting or some questions!</p>
 
 ###
 
