@@ -4,15 +4,11 @@
 
 <br clear="both">
 
-<p align="left">🎯My name is Mateus Diniz. I'm a Software Developer, Student in computer engineering at UNICAMP</p>
+<p align="left">🎯My name is Mateus Diniz. I'm a Software Developer</p>
 
 ###
 
 <p align="left">📚I have some works with TypeScript, Node.js and React.js, contact me if you have same interesting or some questions!</p>
-
-###
-
-<p align="left">⚡Game Lover</p>
 
 ###
 
